@@ -1,0 +1,114 @@
+body {
+    
+    background-color: rgb(20, 64, 99);
+}
+
+h3 {
+    
+    border-style: solid;
+    border-color: rgb(15, 37, 58);
+    background-color: rgb(15, 37, 58);
+    text-align: center;
+    height: 70px;
+    font-size: 60px;
+    font-family: monospace;
+    text-decoration-color: aqua;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 0px;
+    color: white;
+    
+}
+
+#TP {
+    
+    margin-left: 500px;
+    float: right;
+    margin-top: -915px;
+    margin-right: 20px
+}
+
+h4 {
+    
+    border-style: solid;
+    border-color: white;
+    background-color: white;
+    text-align: center;
+    height: 70px;
+    font-size: 60px;
+    font-family: monospace;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: -40px;
+    
+}
+
+h2 {
+    
+    background-color: white;
+    font-family: monospace;
+    text-decoration:underline;
+    text-decoration-style:solid;
+    text-decoration-color: black;
+    border-style: solid;
+    border-color:gray;
+    border-left-width: 5px;
+    border-right-width: 5px;
+    border-top-width: 5px;
+    border-bottom-width: 5px;
+    text-align: center;
+    
+    
+    
+    
+    
+    
+}
+
+#Info {
+    background-color: rgb(122, 169, 195);
+    margin-right: 1000px;
+    font-family: monospace;
+    font-size: 15px;
+    width: 900px;
+    font-size: 30px
+    
+}
+
+#Infoo {
+    
+    background-color: rgb(122, 169, 195);
+    margin-top: 50px;
+    font-family: monospace;
+    font-size: 30px;
+    text-align: center;
+    
+}
+
+h1 {
+    background-color: white;
+    font-family: monospace;
+    text-decoration:underline;
+    text-decoration-style:solid;
+    text-decoration-color: black;
+    border-style: solid;
+    border-color:gray;
+    border-left-width: 5px;
+    border-right-width: 5px;
+    border-top-width: 5px;
+    border-bottom-width: 5px;
+    text-align: center;
+}
+
+#ConInfo {
+    border-style: solid;
+    text-align: center;
+    border-color:gray;
+    border-left-width: 5px;
+    border-right-width: 5px;
+    border-top-width: 5px;
+    border-bottom-width: 5px;
+    background-color: white;
+    font-family: monospace;
+    font-size: 25px;
+}
